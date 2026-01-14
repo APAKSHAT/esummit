@@ -20,6 +20,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "E-SUMMIT DTU 2026",
   description: "North India's Biggest Entrepreneurship Summit 2026",
+  verification: {
+    google: "kyCwx-G5xrf3_DORugoeWoQkGK-mQ9aKP7UmFAqxOkE",
+  },
 };
 
 export default function RootLayout({
